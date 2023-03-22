@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SideNavToggle } from './interfaces/SideNavToggle.interface'
+import { SideNavToggle } from './home/interfaces/SideNavToggle.interface'
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

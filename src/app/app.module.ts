@@ -10,15 +10,13 @@ import {
   SidenavComponent,
   HeaderComponent,
   BodyComponent
-} from './components';
-import { ButtonsSaleComponent } from './components/buttons-sale/buttons-sale.component'
+} from './home/components';
 @NgModule({
   declarations: [
     AppComponent,
     SidenavComponent,
     HeaderComponent,
     BodyComponent,
-    ButtonsSaleComponent
   ],
   imports: [
     BrowserModule,
